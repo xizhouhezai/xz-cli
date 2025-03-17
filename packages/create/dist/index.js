@@ -9,7 +9,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 function create() {
     return __awaiter(this, void 0, void 0, function* () {
-        console.log('create 命令执行中...');
+        console.log('create 命令执行中......');
     });
 }
 export default create;

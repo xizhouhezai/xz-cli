@@ -18,7 +18,7 @@ program
 
 program
   .command("create")
-  .description("创建一个新项目")
+  .description("创建新项目")
   .action(async () => {
     await create();
   });

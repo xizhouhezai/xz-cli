@@ -20,7 +20,7 @@ program
     .version(pkgJson.version);
 program
     .command("create")
-    .description("创建一个新项目")
+    .description("创建新项目")
     .action(() => __awaiter(void 0, void 0, void 0, function* () {
     yield create();
 }));
