@@ -1,6 +1,5 @@
 {
   "name": "@xz-cli/template-react",
-  "private": true,
   "version": "0.1.0",
   "type": "module",
   "publishConfig": {

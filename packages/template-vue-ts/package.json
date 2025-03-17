@@ -1,6 +1,5 @@
 {
   "name": "@xz-cli/template-vue",
-  "private": true,
   "version": "0.1.0",
   "type": "module",
   "publishConfig": {
