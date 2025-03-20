@@ -1,5 +1,12 @@
 # @xz-cli/cli
 
+## 0.0.4
+
+### Patch Changes
+
+- Updated dependencies
+  - @xz-cli/create@0.1.0
+
 ## 0.0.3
 
 ### Patch Changes
