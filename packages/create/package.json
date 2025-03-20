@@ -13,5 +13,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@inquirer/prompts": "^7.4.0",
+    "@xz-cli/utils": "workspace:^",
+    "ejs": "^3.1.10",
+    "fs-extra": "^11.3.0",
+    "glob": "^11.0.1",
+    "ora": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/ejs": "^3.1.5",
+    "@types/fs-extra": "^11.0.4"
+  }
 }
