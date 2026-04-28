@@ -11,6 +11,7 @@
     "xz-cli": "./dist/index.js"
   },
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
