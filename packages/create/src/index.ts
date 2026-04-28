@@ -57,8 +57,6 @@ async function create() {
     spinner.stop();
   }
 
-  // console.log(pkg.npmFilePath, "============");
-
   const spinner = ora("创建项目中...").start();
   await sleep(1000);
 
