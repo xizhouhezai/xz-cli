@@ -1,5 +1,16 @@
 # @xz-cli/cli
 
+## 1.0.0
+
+### Major Changes
+
+- df51eff: 测试 action 发布
+
+### Patch Changes
+
+- Updated dependencies [df51eff]
+  - @xz-cli/create@1.0.0
+
 ## 0.0.4
 
 ### Patch Changes
