@@ -1,5 +1,11 @@
 # @xz-cli/template-vue
 
+## 2.0.0
+
+### Major Changes
+
+- df51eff: 测试 action 发布
+
 ## 1.3.0
 
 ### Minor Changes
