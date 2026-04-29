@@ -43,5 +43,6 @@ jobs:
           commit: "[release] bump package versions"
           title: "chore(release): bump versions"
           setup-git-user: "true"
+          autoMerge: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
