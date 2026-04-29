@@ -108,6 +108,4 @@ function sleep(timeout: number) {
   });
 }
 
-// create();
-
 export default create;
