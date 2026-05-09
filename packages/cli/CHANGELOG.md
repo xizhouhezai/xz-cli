@@ -1,5 +1,16 @@
 # @xz-cli/cli
 
+## 2.0.0
+
+### Major Changes
+
+- b3546e6: test
+
+### Patch Changes
+
+- Updated dependencies [b3546e6]
+  - @xz-cli/create@2.0.0
+
 ## 1.0.0
 
 ### Major Changes

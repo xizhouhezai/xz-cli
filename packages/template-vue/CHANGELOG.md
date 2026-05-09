@@ -1,5 +1,11 @@
 # @xz-cli/template-vue
 
+## 3.0.0
+
+### Major Changes
+
+- b3546e6: test
+
 ## 2.0.0
 
 ### Major Changes
