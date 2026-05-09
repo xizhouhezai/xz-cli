@@ -61,7 +61,6 @@ async function create() {
   await sleep(1000);
 
   const templatePath = path.join(pkg.npmFilePath, "template");
-  // const targetPath = path.join(process.cwd(), projectName);
 
   fse.copySync(templatePath, targetPath);
 
