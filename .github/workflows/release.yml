@@ -36,13 +36,14 @@ jobs:
       - name: Build all packages
         run: pnpm build
 
-      - name: Create Version PR
+      - name: Create Release Pull Request or Publish to npm
         uses: changesets/action@v1
         with:
           version: pnpm changeset version
+          publish: pnpm changeset publish
           commit: "[release] bump package versions"
           title: "chore(release): bump versions"
-          setup-git-user: "true"
-          autoMerge: true
+          setupGitUser: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
